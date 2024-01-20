@@ -1,0 +1,9 @@
+Rules:-
+
+1. Spam words ()
+2. No company Logo
+3. Money in title
+4. Empty Profile (less than 15 words)
+5. Job description (less than 15 words)
+6. Number of hires ******
+7. 
