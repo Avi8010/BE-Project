@@ -1,6 +1,6 @@
 Rules:-
 
-1. Spam words ()
+1. Spam words 
 2. No company Logo
 3. Money in title
 4. Empty Profile (less than 15 words)
